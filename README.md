@@ -29,3 +29,14 @@ Selanjutnya buka browser dan refresh kembali.
 ![Lab4Web](Img/Box%20Elemen2.png)
 Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
 dan amati perubahannya.
+## Membuat Layout Sederhana
+Buat folder baru dengan nama lab4_layout, kemudian buatlah file baru didalamnya dengan nama
+home.html, dan file css dengan nama style.css.
+![Lab4Web](Img/h6.png)
+![Lab4Web](Img/h7.png)
+Kemudian tulis kode berikut.
+![Lab4Web](Img/h8.png)
+Kemudian buka browser dan lihat hasilnya.
+![Lab4Web](Img/layout%20sederhana.png)
+Kemudian tambahkan kode CSS untuk membuat layoutnya.
+![Lab4Web](Img/Kode%20css.png)
