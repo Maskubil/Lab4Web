@@ -40,3 +40,17 @@ Kemudian buka browser dan lihat hasilnya.
 ![Lab4Web](Img/layout%20sederhana.png)
 Kemudian tambahkan kode CSS untuk membuat layoutnya.
 ![Lab4Web](Img/Kode%20css.png)
+Kemudian lihat hasilnya pada browser.
+![Lab4Web](Img/layut%20sederhana%202.png)
+
+## Membuat Navigasi
+Kemudian selanjutnya mengatur navigasi.
+![Lab4Web](Img/h9.png)
+Kemudian lihat hasilnya.
+![Lab4Web](Img/Navigasi.png)
+
+## Membuat Hero Panel.
+Selanjutnya membuat hero panel. Tambahkan kode HTML dan CSS seperti berikut.
+![Lab4Web](Img/h10.png)
+![Lab4Web](Img/h11.png)
+![Lab4Web](Img/Hero%20panel.png)
