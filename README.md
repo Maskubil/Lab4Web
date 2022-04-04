@@ -25,3 +25,7 @@ Tambahkan element div lainnya seteleah div3 seperti berikut.
 ![Lab4Web](Img/h4.png)
 Kemudian atur property clear pada CSS, seperti berikut.
 ![Lab4Web](Img/h5.png)
+Selanjutnya buka browser dan refresh kembali.
+![Lab4Web](Img/Box%20Elemen2.png)
+Lakukan eksperimen terhadap penggunaan property clear dengan nilai lainnya (left, both, right),
+dan amati perubahannya.
